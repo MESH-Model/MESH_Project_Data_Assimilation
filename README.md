@@ -1,5 +1,5 @@
 # MESH-Data-Assimilation
-## This repository is a template for individual MESH modelling projects and contain information about a basin and modelling activities conducted using MESH.
+## ## Welcome to MESH data assimilation project.
 
 - Each repository stored on GitHub is limited to **1 GB** (see [here](https://help.github.com/en/github/managing-large-files/what-is-my-disk-quota) for more details)
 - No one file may be larger than **100 MB**
