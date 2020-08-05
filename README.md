@@ -1,10 +1,8 @@
 # MESH-Data-Assimilation
 ## ## Welcome to MESH data assimilation project.
 
-- Each repository stored on GitHub is limited to **1 GB** (see [here](https://help.github.com/en/github/managing-large-files/what-is-my-disk-quota) for more details)
-- No one file may be larger than **100 MB**
-- Include large files in a .gitignore file and include a push/pull script corresponding to the storage location on a Server (e.g. Graham)
-  - For more information about .gitignore files, see the GitHub manual [here](https://git-scm.com/book/en/v2/Git-Basics-Recording-Changes-to-the-Repository#_ignoring) or a repoistory with some example .gitignore files [here](https://github.com/github/gitignore).
+Extensive on-line documentation is available at the MESH wiki page project web pages:
+[https://wiki.usask.ca/display/MESH/MESH+Assimilate/](https://wiki.usask.ca/display/MESH/MESH+Assimilate/)
 
 To create a new basin repository:
 1. Click "Use this template" from the MESH_Project_Template repository page
