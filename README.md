@@ -13,6 +13,7 @@ To create a new basin repository:
 3. Update the main "ReadMe.md" and "ProjectOverview.md" documents with project-specific information, and populate the folders.
 
 # Project Title
+Assimilation of remote sensing observations into the MESH model in Canada
 
 ## Team
   *Include the name of modeller(s), advisors, and other contributors involved in the project here, as well as key contact information*
