@@ -6,7 +6,7 @@ Extensive on-line documentation is available at the MESH wiki page project web p
 
 
 # Project Title
-Assimilation of remote sensing observations into the MESH model in Canada. [https://www.researchgate.net/project/Assimilation-of-remote-sensing-observations-into-the-MESH-model-in-Canada] (https://www.researchgate.net/project/Assimilation-of-remote-sensing-observations-into-the-MESH-model-in-Canada)
+Assimilation of remote sensing observations into the MESH model in Canada. [https://www.researchgate.net/project/Assimilation-of-remote-sensing-observations-into-the-MESH-model-in-Canada](https://www.researchgate.net/project/Assimilation-of-remote-sensing-observations-into-the-MESH-model-in-Canada)
 
 ## Team
 
