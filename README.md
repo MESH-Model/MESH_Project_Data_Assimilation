@@ -25,7 +25,7 @@ During this project, the data assimilation (DA) framework has been developed int
 ## Basin Meta-data
 The basin meta-data is accessible via MESH wiki page [https://wiki.usask.ca/display/MESH/Mackenzie+River+Basin] 
 ## Progress / Conclusion
-The general objective of this thesis focuses on developing a framework to improve snow water equivalent (SWE) and streamflow simulations in the MESH model over Canada through the assimilation of Terrestrial Water Storage Anomaly (TWSA) retrievals provided by the GRACE satellites. The ensemble Kalman smoother (EnKS) approach has been implemented for integration of GRACE observations with the MESH model.
+The general objective of this thesis focuses on developing a framework to improve snow water equivalent (SWE) and streamflow simulations in the MESH model over Canada through the assimilation of Terrestrial Water Storage Anomaly (TWSA) retrievals provided by the GRACE satellites. The ensemble Kalman smoother (EnKS) approach has been implemented for integration of GRACE observations within the MESH model.
 
 ## References
 Bahrami, A. (2020). Assimilation of GRACE data into the MESH model to improve the estimation of snow water equivalent [Doctoral Thesis, Université de Sherbrooke]. https://savoirs.usherbrooke.ca/handle/11143/17283?show=full
