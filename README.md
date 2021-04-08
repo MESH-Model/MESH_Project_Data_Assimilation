@@ -9,13 +9,15 @@ Extensive on-line documentation is available at the MESH wiki page project web p
 Assimilation of remote sensing observations into the MESH model in Canada. [https://www.researchgate.net/project/Assimilation-of-remote-sensing-observations-into-the-MESH-model-in-Canada](https://www.researchgate.net/project/Assimilation-of-remote-sensing-observations-into-the-MESH-model-in-Canada)
 
 ## Team
-
+**Primary modeler:** Ala Bahrami  
+  **MESH training and support:** Daniel Princz (ECCC) and Mohamed Elshamy (GWF) 
+  **Advisors:** Kalifa Goïta (University of Sherbrooke), Ramata Magagi (University of Sherbrooke), Bruce Davison (ECCC & GWF) and Saman Razavi (GWF)
 
 ## Date
-*Date(s) of the project*
+The project was started in 2016 and was finished in 2020. 
 
 ## Purpose
-  *Give a brief summary of the purpose of the modelling project here*
+During this project, the data assimilation (DA) framework has been developed into the Environment and Climate Change Canada’s (ECCC) community environmental modeling open source code software. The purpose of this work focuses on the integration of satellite-based terrestrial water storage anomaly (TWSA) observations derived from the Gravity Recovery and Climate Experiment (GRACE) into ECCC’s modeling system. The semi-distributed hydrology land surface model called MESH (Modélisation Environmentale Communautaire (MEC) – Surface et Hydrologie; Pietroniro et al., 2007) has been used for the developement of this project.
 
 ## Objectives and Main Tasks
   *List the objectives of the modelling, as well as a summary of the project structure and tasks completed*
@@ -26,34 +28,3 @@ Assimilation of remote sensing observations into the MESH model in Canada. [http
 
 ## References
 
-___
-___
-# Folder Structure
-
-## Code
-
-## Data
-
-### Raw
-
-### Processed
-
-#### Driving
-
-#### Spatial
-
-#### Validation
-
-## Model
-
-### Justification
-
-### MESH_Code
-
-### Ostrich
-
-### ConfigurationX*
-
-## Presentations
-
-## Site
