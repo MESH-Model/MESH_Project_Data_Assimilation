@@ -27,4 +27,6 @@ During this project, the data assimilation (DA) framework has been developed int
 ## Progress / Conclusion
 
 ## References
+Bahrami, A. (2020). Assimilation of GRACE data into the MESH model to improve the estimation of snow water equivalent [Doctoral Thesis, Université de Sherbrooke]. https://savoirs.usherbrooke.ca/handle/11143/17283?show=full
 
+Bahrami, A., Goïta, K., Magagi, R., Davison, B., Razavi, S., Elshamy, M., Princz, D., 2020. Data assimilation of satellite-based terrestrial water storage changes into a hydrology land-surface model. J. Hydrol. 125744. https://doi.org/10.1016/j.jhydrol.2020.125744
