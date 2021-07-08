@@ -33,4 +33,5 @@ Bahrami, A. (2020). Assimilation of GRACE data into the MESH model to improve th
 Bahrami, A., Goïta, K., Magagi, R., Davison, B., Razavi, S., Elshamy, M., Princz, D., 2020. Data assimilation of satellite-based terrestrial water storage changes into a hydrology land-surface model. J. Hydrol. 125744. https://doi.org/10.1016/j.jhydrol.2020.125744
 
 ## License 
-The MESH-Data-Assimilation is distributed under the GNU Public License Version 3. 
+The MESH-Data-Assimilation is distributed under the Open Government Licence - Canada
+version 2.0 or any later version
