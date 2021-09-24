@@ -2,7 +2,7 @@
 ## ## Welcome to the MESH data assimilation project.
 
 Extensive online documentation is available at the MESH wiki page project web pages:
-[https://wiki.usask.ca/display/MESH/MESH+Assimilate/](https://wiki.usask.ca/display/MESH/MESH+Assimilate/)
+[https://wiki.usask.ca/pages/viewpage.action?pageId=1331527756](https://wiki.usask.ca/pages/viewpage.action?pageId=1331527756)
 
 
 # Project Title
